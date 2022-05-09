@@ -2,7 +2,7 @@
 
 Este repositório é o portifólio de Sandro Barros
 
-##Hobbies
+## Hobbies
 
 - Assistir Séries 📺
 - Jogar Futebol ⚽
