@@ -7,4 +7,4 @@ Este repositório é o portifólio de Sandro Barros
 - Assistir Séries 📺
 - Jogar Futebol ⚽
 - Praia 🏖️
-- Beber Cerveja 🍺
+- Ir ao Cinema 🎦
